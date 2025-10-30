@@ -1,4 +1,4 @@
-# ADAChallange2
+# Challange 2
 
 🌿 Plant Reminder App
 
@@ -6,7 +6,7 @@
 
 This project was developed during the second challenge at the Apple Developer Academy a 9-day solo challenge focused on transforming interface designs into a fully coded application.
 
-🌱 Overview
+## 🌱 Overview
 
 Plant Reminder is a simple and calming app that helps users take care of their plants with love and consistency.
 In just 9 days, I designed and coded this app entirely on my own — bringing a UI concept to life through SwiftUI.
@@ -64,4 +64,5 @@ Throughout this challenge, I learned how to:
 ## Developer
 
 Developed by: Sarah Algarny
+
 Apple Developer Academy | Second Challenge — Individual (9 Days)
